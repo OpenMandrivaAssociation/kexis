@@ -38,3 +38,10 @@ mv docs/README.txt README
 %doc COPYING README
 %{_bindir}/*
 
+
+
+%changelog
+* Sun Sep 18 2011 Andrey Bondrov <abondrov@mandriva.org> 0.2.2-1
++ Revision: 700199
+- imported package kexis
+
