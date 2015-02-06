@@ -1,6 +1,6 @@
 Name:			kexis
 Version:		0.2.2
-Release:		%mkrel 1
+Release:		2
 Summary:		A lossless WAV file compressor
 License:		GPLv2
 Group:			Sound
