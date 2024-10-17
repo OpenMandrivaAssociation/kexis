@@ -4,7 +4,7 @@ Release:		2
 Summary:		A lossless WAV file compressor
 License:		GPLv2
 Group:			Sound
-URL:			http://sourceforge.net/projects/kexis/
+URL:			https://sourceforge.net/projects/kexis/
 Source:			http://etree.org/shnutils/shntool/support/formats/kxs/win32/%{version}/%{name}-%{version}-shntool.tar.gz
 BuildRoot:		%{_tmppath}/%{name}-%{version}-build
 
